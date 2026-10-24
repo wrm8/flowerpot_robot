@@ -1,0 +1,9 @@
+setup.py
+yolo11_msgs/__init__.py
+yolo11_msgs.egg-info/PKG-INFO
+yolo11_msgs.egg-info/SOURCES.txt
+yolo11_msgs.egg-info/dependency_links.txt
+yolo11_msgs.egg-info/top_level.txt
+yolo11_msgs/msg/__init__.py
+yolo11_msgs/msg/_coordinate.py
+yolo11_msgs/msg/_coordinate_array.py

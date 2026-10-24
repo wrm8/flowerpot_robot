@@ -1,0 +1,7 @@
+{
+  "package_name": "yolo11_msgs",
+  "non_idl_tuples": [
+    "/home/wrm/wrm/flower_robot-master_WRM/flowerpot_ws/src/yolo11_msgs:msg/Coordinate.msg",
+    "/home/wrm/wrm/flower_robot-master_WRM/flowerpot_ws/src/yolo11_msgs:msg/CoordinateArray.msg"
+  ]
+}

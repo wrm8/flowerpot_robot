@@ -1,0 +1,5 @@
+flowerpot_ws/build/
+flowerpot_ws/devel/
+flowerpot_ws/install/
+flowerpot_ws/log/
+*.pyc

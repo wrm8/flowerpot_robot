@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>robot_bringup</name>
+  <version>0.0.1</version>
+  <description>Robot bringup package to start all nodes</description>
+  <maintainer email="wrm@todo.todo">wrm</maintainer>
+  <license>Apache-2.0</license>
+
+  <!-- 依赖的包 -->
+  <depend>rclcpp</depend>
+  <depend>rclpy</depend>
+  <depend>imu_pkg</depend>
+  <depend>radar_pkg</depend>
+  <depend>camera_pkg</depend>
+  <depend>radaryolo11_meld__pkg</depend>
+  <depend>gps_pkg</depend>
+  <depend>potbot_hmi</depend>
+  <depend>serial_stm32_pkg</depend>
+  <depend>decision_making_pkg</depend>
+  <depend>yolo11_pkg</depend>
+  <depend>lslidar_driver</depend>
+
+  <!-- 可选依赖（如果某些包可能不存在） -->
+  <exec_depend>ros2launch</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

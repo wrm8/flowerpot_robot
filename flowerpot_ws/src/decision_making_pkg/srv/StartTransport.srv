@@ -1,0 +1,8 @@
+# 请求部分
+int8 placement_type      # 0=网格摆放, 1=三角错位摆放
+float32 placement_spacing # 摆放间距（米）
+bool start               # 开始标志
+---
+# 响应部分
+bool success
+string message

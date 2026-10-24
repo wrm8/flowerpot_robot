@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "yolo11_msgs__rs",
+		"source" : "/home/wrm/wrm/flower_robot-master_WRM/flowerpot_ws/build/yolo11_msgs/yolo11_msgs__rs"
+	}
+}
